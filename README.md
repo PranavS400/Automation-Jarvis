@@ -1,1 +1,1 @@
-# Django-Travell-Webesite
+# Automated
